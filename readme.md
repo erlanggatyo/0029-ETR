@@ -1,1 +1,1 @@
-file ini adalah file readme yang digunakan untuk praktikum git dan github
+G.231.20.0029 - Kota Semarang
